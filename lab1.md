@@ -11,10 +11,10 @@ Before you actually ask the question you have, search for your problem online or
 2. If your question is on a certain topic, learn about the topic beforehand to make sure that you can't solve your problem from that. 
 
 ##Regex
-![Donald](images/exercise7.jpg)
+![Donald](images/exercise7.JPG)
 
 ##RegexCrossword
-![Donald](images/regexCross.jpg)
+![Donald](images/regexCross.JPG)
 
 ##Blockly
 ![Donald](images/maze.jpg)
