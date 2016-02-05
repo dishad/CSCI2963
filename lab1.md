@@ -11,13 +11,13 @@ Before you actually ask the question you have, search for your problem online or
 2. If your question is on a certain topic, learn about the topic beforehand to make sure that you can't solve your problem from that. 
 
 ##Regex
-(images/exercise7.jpg)
+![Donald](images/exercise7.jpg)
 
 ##RegexCrossword
-(images/regexCross.jpg)
+![Donald](images/regexCross.jpg)
 
 ##Blockly
-(images/maze.jpg)
+![Donald](images/maze.jpg)
 
 ##Reflection
 A project that has been on my mind for a while now is to create my own game. As the idea stands in my head, I want it to be a time progression game, where the player gets better at the game as long as they leave it open (otherwise known as an idle game). I would like to set up a finished idle game and allow for extensions and plugins to be created by people so that they can play the game how they would like to. 
