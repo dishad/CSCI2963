@@ -1,2 +1,2 @@
-# CSCI2963-Labs
-Repository for the labs of CSCI2963
+# CSCI2963
+Repository for anything and everything that is useful for CSCI2963
