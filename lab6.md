@@ -41,3 +41,24 @@ Tables 5: Projects 21-25
 	* First Commit: https://github.com/KeyboardNerd/survive-commons/commit/8603a4b4d8c9fe7cf29b9a7016ddb79bf5bb32c9
 	* Last Commit: https://github.com/KeyboardNerd/survive-commons/commit/0ebecdf8f95ab8cf18004e6efc15b122ddd257be
 	* Current Branches: master (only branch)
+
+![yacs](images/l6pics/gitstatsYACS.JPG)
+
+![fsp](images/l6pics/gitstatsFSP.JPG)
+
+![aras](images/l6pics/gitstatsARAS.JPG)
+
+![poke](images/l6pics/gitstatsPokedex.JPG)
+
+![sc](images/l6pics/gitstatsSC.JPG)
+
+The information given to me by the gitstats application allows much more clear information as to where the lines of code come from, age of the project, and graphs on how many commits are done a day are very useful.
+
+#Python testing
+
+> $ python test_markdown_unittest.py 
+> .......
+> ----------------------------------------------------------------------
+> Ran 7 tests in 0.249s
+> 
+> OK
