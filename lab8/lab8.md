@@ -2,8 +2,8 @@
 =====
 
 ##Output + Plot
-![Output](../images/output.JPG)
-![Plot](../images/plot.JPG)
+![Output](output.JPG)
+![Plot](plot.JPG)
 
 ##Status Report
 
